@@ -1,3 +1,4 @@
+#Pasta Dockerfile
 FROM node:12-alpine
 ENV WORKDIR /usr/src/app/
 WORKDIR $WORKDIR
